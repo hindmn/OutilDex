@@ -1,5 +1,5 @@
 Dex : TP1
-Cours : Programmation web 2 (420-248-AH gr: 42051)
+Cours : Programmation web 2
 Fait par : Hind Manouzi (2262749)
 
 **Initialisation et création du projet**
